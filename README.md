@@ -8,4 +8,5 @@ Projects I worked on while attending the Data Analysis TripleTen Bootcamp.
 | 2 | Sprint6_Power BI project; Shopify App Analysis | The project involves analyzing data from the Shopify App Store to identify key factors contributing to the success of Shopify apps using Power BI.|
 | 3 | George_Morrison_ Business Analytics Project | The analysis highlights critical drop-off points in the conversion funnel at the “Interest” and “Desire” stages, suggesting that optimizing these areas could boost the overall conversion rate by 15%. Additionally, improving engagement strategies during the first three months is essential for enhancing long-term retention and reducing the churn rate from 55%. |
 | 4 | Sprint5_project_George_Morrison. Storytelling with Data | In this project, we will be preparing an analysis for the CEO of the Superstore to help them understand what is causing customers to return their orders and how to reduce the volume of returned orders. |
-| 5 | ----------- |----------- |
+| 5 | Decomposition of the task |Business Problem: You are tasked with analyzing the business performance of restaurants and customers for Zomato as part of your onboarding process. |
+| 6 | ----------- |----------- |
